@@ -1,0 +1,12 @@
+category_name,product_name,total_sales,highest_sales,lowest_sales
+Guitars,"Rodriguez Caballero 11",415.00,"Gibson SG","Rodriguez Caballero 11"
+Guitars,"Yamaha FG700S",489.99,"Gibson SG","Yamaha FG700S"
+Guitars,"Washburn D10S",598.00,"Gibson SG","Washburn D10S"
+Guitars,"Fender Stratocaster",1398.00,"Gibson SG","Fender Stratocaster"
+Guitars,"Gibson Les Paul",2398.00,"Gibson SG","Gibson Les Paul"
+Guitars,"Gibson SG",2517.00,"Gibson SG","Gibson SG"
+Basses,"Hofner Icon",NULL,"Fender Precision","Hofner Icon"
+Basses,"Fender Precision",799.99,"Fender Precision","Fender Precision"
+Drums,"Ludwig 5-piece Drum Set with Cymbals",699.99,"Tama 5-Piece Drum Set with Cymbals","Ludwig 5-piece Drum Set with Cymbals"
+Drums,"Tama 5-Piece Drum Set with Cymbals",799.99,"Tama 5-Piece Drum Set with Cymbals","Tama 5-Piece Drum Set with Cymbals"
+Keyboards,"Yamaha DGX 640 88-Key Digital Piano",NULL,"Yamaha DGX 640 88-Key Digital Piano","Yamaha DGX 640 88-Key Digital Piano"

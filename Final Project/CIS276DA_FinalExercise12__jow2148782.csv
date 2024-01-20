@@ -1,0 +1,8 @@
+"Grants for david@localhost"
+"GRANT USAGE ON *.* TO `david`@`localhost`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`addresses` TO `david`@`localhost`"
+"GRANT SELECT ON `my_guitar_shop`.`categories` TO `david`@`localhost`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`customers` TO `david`@`localhost`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`order_items` TO `david`@`localhost`"
+"GRANT SELECT, INSERT, UPDATE, DELETE ON `my_guitar_shop`.`orders` TO `david`@`localhost`"
+"GRANT SELECT ON `my_guitar_shop`.`products` TO `david`@`localhost`"
