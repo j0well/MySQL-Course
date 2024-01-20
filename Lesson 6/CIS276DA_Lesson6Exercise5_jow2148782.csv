@@ -1,0 +1,11 @@
+account_description,item_count,SUM(i.line_item_amount)
+"Direct Mail Advertising",5,3810.41
+"Book Production Costs",7,5174.66
+"Office Supplies",3,175.80
+Freight,41,17624.19
+"Computer Equipment",3,2137.05
+"Book Printing Costs",3,66748.44
+"Books, Dues, and Subscriptions",4,4027.90
+"Outside Services",3,13394.10
+Telephone,5,193.54
+"Group Insurance",2,340.00
