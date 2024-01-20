@@ -1,0 +1,1 @@
+DELETE FROM vendors WHERE vendor_id = 2;

@@ -1,0 +1,9 @@
+user,host
+ap_user,%
+ap_tester,localhost
+dorothy,localhost
+mysql.infoschema,localhost
+mysql.session,localhost
+mysql.sys,localhost
+ray,localhost
+root,localhost
