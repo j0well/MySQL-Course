@@ -1,0 +1,1 @@
+CREATE INDEX addresses_zip_code_ix ON vendors (vendors_zip_code);
